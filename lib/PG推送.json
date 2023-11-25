@@ -2,7 +2,7 @@
 "token":"561984e65a474072bf25b5189beb5948",
 "open_token":"",
 "thread_limit":32,
-"vod_flags":"4kz|4k|auto",
+"vod_flags":"4kz|auto",
 "aliproxy":"",
 "proxy":"",
 "open_api_url":"https://api.xhofe.top/alist/ali_open/",
