@@ -1,9 +1,4 @@
-4K频道,#流派#
-
-CCTV4K，http://HLS。ye23。VIP/dl/4k。中央电视台。服务器端编程语言（Professional Hypertext Preprocessor的缩写）
-CCTV4K，http://101 . 33 . 17 . 11/live play-kk . RTX app . com/live/program/live/CCTV 4k/15000000/MNF . m3 u8
-
-📡央视2K👉,#流派#
+📡央视2K,#genre#
 CCTV-1 2K，http://39。134 .24 .166/db IPTV。sn。中国移动。com/PLTV/8888890/224/3221225804/index。m3u 8
 CCTV-2 2K，http://39。134 .24 .162/db IPTV。sn。中国移动。com/PLTV/8888890/224/3221226224/index。m3u 8
 CCTV-2 2K，http://39。134 .24 .162/db IPTV。sn。中国移动。com/PLTV/8888890/224/3221226195/index。m3 u8？
