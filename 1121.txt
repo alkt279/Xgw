@@ -1,15 +1,15 @@
-📡央视2K,#genre#
-CCTV-1 2K,http://39 .134 .24 .166/db IPTV .sn .中国移动com/PLTV/8888890/224/3221225804/index .m3u 8
-CCTV-2 2K,http://39 .134 .24 .162/db IPTV .sn .中国移动com/PLTV/8888890/224/3221226224/index .m3u 8
-CCTV-2 2K,http://39 .134 .24 .162/db IPTV .sn .中国移动com/PLTV/8888890/224/3221226195/index .m3 u8？
-CCTV-3 2K,http://111 .20 . 40 . 172/PLTV/8888893/224/3221226397/index .m3u 8
-CCTV-4 2K,http://39 .134 .24 .162/db IPTV .sn .中国移动com/PLTV/8888890/224/3221226191/index .m3 u8？
-CCTV-4 2K,http://39 .134 .24 .161/db IPTV .sn .中国移动com/PLTV/8888890/224/3221226191/index .m3 u8？
-CCTV-5 2K,http://39 .134 .24 .161/db IPTV .sn .中国移动com/PLTV/8888890/224/3221226395/index .m3 u8？
-CCTV-5 2K,http://39。134 .24 .166/db IPTV。sn。中国移动。com/PLTV/8888890/224/3221226395/index。m3u 8
-CCTV-5 2K,http://39 . 134 . 24 . 162/db IPTV . sn . China mobile . com/PLTV/8888890/224/3221226395/index . m3u 8
-CCTV-5+ 2K,http://39 . 134 . 24 . 162/db IPTV . sn . China mobile . com/PLTV/8888890/224/3221225761/index . m3u 8？
-CCTV-5+ 2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+📡央视2K 👉,#genre#
+CCTV-1    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
+CCTV-3    2K,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
+CCTV-4    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV-4    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV-5    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV-5    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5+   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
+CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-6    2K,http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8
 CCTV-6    2K,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
 CCTV-7    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
@@ -17,11 +17,11 @@ CCTV-8    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-8    2K,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8
 CCTV-9    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 CCTV-9    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV-10 2K,http://222。71 .90 .218:8888/new live/live/HLS/11/livem3u 8
-CCTV-10 2K,http://39。134 .24 .162/db IPTV。sn。中国移动。com/PLTV/8888890/224/3221226189/index。m3u 8？
-CCTV-13 2K,http://39。134 .24 .162/db IPTV。sn。中国移动。com/PLTV/8888890/224/3221226233/index。m3u 8？
-CCTV-13 2K,https://直播。央视新闻。中央电视台。com/CCTV/merge _ CCTV 13。m3 u8
-CCTV-13 2K,http://39。134 .24 .166/db IPTV。sn。中国移动。com/PLTV/8888890/224/3221226233/index。m3u 8
+CCTV-10   2K,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
+CCTV-10   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
+CCTV-13   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
+CCTV-13   2K,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-13   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13   2K,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
 CCTV-14   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?
 CCTV-15   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
