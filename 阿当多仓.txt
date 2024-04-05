@@ -1,0 +1,85 @@
+{
+    "storeHouse":[
+            
+               {
+                "sourceName":"多仓",
+                "sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/zc.json"
+        },
+                      {
+                "sourceName":"多仓1",
+                "sourceUrl":"https://qixing.myhkw.com/DC.txt"
+        }, 
+        
+                            
+                             
+              {
+                "sourceName":"多仓2",
+                "sourceUrl":"http://rihou.cc:666"
+        },  
+                      {
+                "sourceName":"多仓3",
+                "sourceUrl":"https://jihulab.com/dlm104373422/333/-/raw/main/2024%E5%A4%9A%E4%BB%93.txt"
+        },  
+      {
+                "sourceName":"多仓4",
+                "sourceUrl":"https://jihulab.com/dlm104373422/333/-/raw/main/H5h2clAI_%E5%A4%87.txt"
+        },    
+        
+        
+    {
+      "sourceName": "多仓5",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIP.txt"
+    },
+    {
+      "sourceName": "多仓6",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIPP.txt"
+    },
+    {
+      "sourceName": "❤【元老库】❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/元老库.txt"
+    },
+    {
+      "sourceName": "❤【精品库】❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/精品库.txt"
+    },
+    {
+      "sourceName": "❤【讴歌多仓】❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/讴歌多仓.txt"
+    },
+    {
+      "sourceName": "❤【七星多仓】❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/七星多仓.txt"
+    },
+    {
+      "sourceName": "❤【心动仓库】❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/心动仓库.txt"
+    },
+    {
+      "sourceName": "❤【宝盒多仓】❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/宝盒多仓.txt"
+    },
+    {
+      "sourceName": "❤【云星多仓】❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/云星多仓.txt"
+    },
+    {
+      "sourceName": "❤【多多多仓】❤",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/多多多仓.txt"
+    },
+        
+        
+        
+        
+        {
+                "sourceName": "多仓5",
+           "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"
+        }
+       
+    ]
+}
+
+
+
+
+
+
