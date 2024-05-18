@@ -1403,7 +1403,19 @@ CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_
 嘉兴文化影视,http://play-a2.quklive.com/live/1675149625220101.m3u8
 港澳台,#genre#
 
-
+凤凰资讯1,http://103.95.24.37:880/fhzx.m3u8
+凤凰资讯2,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+凤凰资讯3,http://112.19.171.156:9999/udp/239.93.0.118:2191
+凤凰资讯4,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
+凤凰资讯5,http://103.95.24.37:880/fhzx.m3u8
+凤凰卫视6,http://112.19.171.156:9999/udp/239.93.0.162:2192
+凤凰资讯7,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
+凤凰资讯8,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
+凤凰资讯9,http://www.372583307.top:4022/udp/233.50.200.192:5140
+凤凰资讯10,http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
+凤凰资讯11,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
+凤凰卫视1,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
+凤凰卫视,http://103.95.24.37:880/fhws.m3u8
 凤凰中文,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
