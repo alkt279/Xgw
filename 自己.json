@@ -1,5 +1,6 @@
 
 央视频道/自动更新,#genre#
+随机视频,http://api.yujn.cn/api/xjj.php
 CCTV1,http://112.99.195.122:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://112.101.78.50:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://112.101.78.50:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
