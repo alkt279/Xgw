@@ -232,9 +232,11 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 国际频道,#genre#
-凤凰卫视 资讯台,https://test.zapi.us.kg/?id=phtv-info
-凤凰卫视 中文台,https://test.zapi.us.kg/?id=phtv-cn
-凤凰卫视 香港台,https://test.zapi.us.kg/?id=phtv-hk
+凤凰資訊台, http://A/ku9/js/fengh.js?id=fhzx
+凤凰中文台, http://A/ku9/js/fengh.js?id=fhzw
+凤凰香港台, http://A/ku9/js/fengh.js?id=fhhk
+
+
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
