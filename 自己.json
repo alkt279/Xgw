@@ -283,10 +283,16 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 国际频道,#genre#
-凤凰資訊台, http://A/ku9/js/fengh.js?id=fhzx
-凤凰中文台, http://A/ku9/js/fengh.js?id=fhzw
-凤凰香港台, http://A/ku9/js/fengh.js?id=fhhk
 
+凤凰卫视资讯台,http://146.56.153.245:20121/bysid/257
+凤凰卫视资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰卫视资讯台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰卫视资讯台,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___fenghuang.flv
+凤凰卫视资讯台,p3p://108.181.32.169:45940/641022be000e5cc69861ad4f5a025336
+
+凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰卫视中文台,p3p://108.181.32.169:45940/6410229e000655dd98612e41401e3e7d
+凤凰卫视中文台,p3p://108.181.32.169:45940/641fd7b400080236d5bc536f5d82159c
 港澳台频道,#genre#
 凤凰资讯台,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 凤凰资讯,http://104.219.215.144:8278/phoenixinfo_hd/playlist.m3u8?tid=MBDB6375882763758827&ct=20008&tsum=87df036a757255bfaede593a273d0e98
