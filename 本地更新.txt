@@ -1,0 +1,137 @@
+[
+  {
+    "name": "❤️推荐",
+    "list": [
+      {
+        "url": "",
+        "icon": "https://ghfast.top/https://raw.githubusercontent.com/alkt279/Xgw/master/女.jpg"
+      }
+    ]
+  },
+  {
+    "name": "😈当前版本",
+    "list": [
+      {
+        "name": "短剧本地包",
+        "url": "",
+        "icon": "http://127.0.0.1:9978/file/短剧/.版本.png"
+      },
+      {
+      "name": "欧歌本地包",
+     "url": "",
+      "icon": "http://127.0.0.1:9978/file/tvbox/.版本号.png"
+      },
+      
+      {
+        "name": "无忧本地包",
+        "url": "",
+        "icon": "http://127.0.0.1:9978/file/TVBox/.版本.png"
+      }
+    ]
+  },
+  {
+    "name": "🌐检测同步更新",
+    "list": [
+      {
+        "name": "短剧本地包",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/alkt279/Xgw/master/短剧.zip",
+        "icon": "https://ghfast.top/https://raw.githubusercontent.com/alkt279/Xgw/master/女.jpg",
+        "version": "06.11"
+      },
+      {
+      "name": "欧歌本地",
+      "url": "http://123.yy.xn--dkw.xn--6qq986b3xl/欧歌多线半本包tvbox.zip",
+      "icon":"",                        "version": "随时更新" },
+      
+      {
+        "name": "潇洒单线路本地",
+        "url": "https://gitee.com/PizazzXS/another-d/raw/master/单线路.zip",
+        "icon": "",
+        "version": "随时更新"
+      },
+      {
+        "name": "潇洒多线路本地",
+        "url": "https://gitee.com/PizazzXS/another-d/raw/master/多线路.zip",
+        "icon": "",
+        "version": "随时更新"
+      },
+      {
+        "name": "无忧本地",
+        "url": "https://gitee.com/liu_wuyou/box/raw/master/Bdb/TVBox0601.zip",
+        "icon": "https://gitee.com/liu_wuyou/box/raw/master/Bz/%E6%97%A0%E5%BF%A7.jpg",
+        "version": "随时更新"
+      },
+ 
+    { "name": "小虎斑本地",
+                                    "url": "http://zling.online:20202/小虎斑.zip",
+                                            "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",                                  "version": "随时更新"
+     },{
+      "name": "奇奇本地",
+       "url": "http://bd.qiqiv.cn/测试包.zip",
+        "icon": "http://bd.qiqiv.cn/更新.jpg",      "version":"随时更新"   }    ]  },
+  {
+    "name": "影视app",
+    "list": [
+      {
+        "name": "影视仓手机版",
+        "url": "https://www.now61.com/f/LBymsz/%E5%BD%B1%E8%A7%86%E4%BB%93-3.0.9.1.apk",
+        "icon": "https://www.now61.com/f/ygqAUe/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E6%9C%BA.png",
+        "version": "3.0.9.1"
+      },
+      {
+        "name": "影视仓TV版",
+        "url": "https://www.now61.com/f/OBKjtD/%E5%BD%B1%E8%A7%86%E4%BB%93_6.0.8.apk",
+        "icon": "https://www.now61.com/f/gJrlHL/%E5%BD%B1%E8%A7%86%E4%BB%93TV.png",
+        "version": "6.0.8"
+      },
+      {
+        "name": "影视手机版",
+        "url": "https://www.now61.com/f/KvDRUv/%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA%E7%89%88_v8a-2.8.6.apk",
+        "icon": "https://www.now61.com/f/3pRkuK/%E5%BD%B1%E8%A7%86.png",
+        "version": "v8a_2.86"
+      },
+      {
+        "name": "影视TV版",
+        "url": "https://www.now61.com/f/gJdWtL/%E5%BD%B1%E8%A7%86TV%E7%89%88_v7a--2.8.6.apk",
+        "icon": "https://www.now61.com/f/3pRkuK/%E5%BD%B1%E8%A7%86.png",
+        "version": "v7a_2.86"
+      },
+      {
+        "name": "影视海信版",
+        "url": "https://www.now61.com/f/wDWYfa/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88-OK%E5%BD%B1%E8%A7%86-2.8.6.apk",
+        "icon": "https://www.now61.com/f/3pRkuK/%E5%BD%B1%E8%A7%86.png",
+        "version": "v7a_2.86"
+      },
+      {
+        "name": "影视4.x版",
+        "url": "https://www.now61.com/f/erLJfV/%E5%AE%89%E5%8D%934.x-OK%E5%BD%B1%E8%A7%86-X5%E7%A6%BB%E7%BA%BF-2.5.0.apk",
+        "icon": "https://www.now61.com/f/3pRkuK/%E5%BD%B1%E8%A7%86.png",
+        "version": "v7a"
+      },
+      {
+        "name": "TVBox白版",
+        "url": "https://www.now61.com/f/JBOqF9/TVBox_20250409-0916.apk",
+        "icon": "https://www.now61.com/f/j45Atg/TVBox.png",
+        "version": "20250409-0916"
+      },
+      {
+        "name": "IDM+",
+        "url": "https://www.now61.com/f/wD69Ha/IDM+_12.3.apk",
+        "icon": "https://www.now61.com/f/Kvdpcv/idm.png",
+        "version": "12.3"
+      },
+      {
+        "name": "甲壳虫adb",
+        "url": "https://www.now61.com/f/ar3Wt1/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B_1.3.0%E7%A0%B4%E8%A7%A3%E7%89%88.apk",
+        "icon": "https://www.now61.com/f/b0gJFm/%E7%94%B2%E5%A3%B3%E8%99%AB.png",
+        "version": "1.30"
+      },
+      {
+        "name": "超卓管理器",
+        "url": "https://www.now61.com/f/1kRqFL/%E8%B6%85%E5%8D%93%E6%96%87%E7%AE%A1_15.4.4.apk",
+        "icon": "https://www.now61.com/f/prL4sP/%E8%B6%85%E5%8D%93%E7%AE%A1%E7%90%86%E5%99%A8.png",
+        "version": "15.4.4"
+      }
+    ]
+  }
+]
