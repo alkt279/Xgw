@@ -36,7 +36,7 @@
         "name": "短剧本地包",
         "url": "https://ghfast.top/https://raw.githubusercontent.com/alkt279/Xgw/master/短剧.zip",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/alkt279/Xgw/master/女.jpg",
-        "version": "06.17"
+        "version": "06.23"
       },
       {
       "name": "欧歌本地",
