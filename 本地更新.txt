@@ -25,7 +25,7 @@
       {
         "name": "无忧本地包",
         "url": "",
-        "icon": "http://127.0.0.1:9978/file/TVBox/.版本.png"
+        "icon": "http://127.0.0.1:9978/file/TVBox/.版本.png",
 "version": "6.18.1"
       }
     ]
