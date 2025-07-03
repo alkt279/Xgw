@@ -38,7 +38,13 @@
         "url": "https://ghfast.top/https://raw.githubusercontent.com/alkt279/Xgw/master/短剧.zip",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/alkt279/Xgw/master/女.jpg",
         "version": "07.02"
+      }, {
+        "name": "幸福年年本地包",
+        "url": "http://cvsfd.osfs.top/幸福年年0703.zip",
+        "icon": "http://cvsfd.osfs.top/v2-a2c79e8d0246fff5ffab918aa211b81c_r.jpg",
+        "version": ""随时更新"
       },
+
       {
       "name": "欧歌本地",
       "url": "http://123.yy.xn--dkw.xn--6qq986b3xl/欧歌多线半本包tvbox.zip",
