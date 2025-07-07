@@ -32,7 +32,7 @@
         "name": "短剧本地包",
         "url": "https://ghfast.top/https://raw.githubusercontent.com/alkt279/Xgw/master/短剧.zip",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/alkt279/Xgw/master/女.jpg",
-        "version": "07.02"
+        "version": "07.07"
       }, {
         "name": "幸福年年本地包",
         "url": "http://cvsfd.osfs.top/幸福年年0703.zip",
