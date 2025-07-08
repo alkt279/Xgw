@@ -35,7 +35,7 @@
         "version": "07.07"
       }, {
         "name": "幸福年年本地包",
-        "url": "http://cvsfd.osfs.top/幸福年年0703.zip",
+        "url": "http://cvsfd.osfs.top/幸福年年0705.zip",
         "icon": "http://cvsfd.osfs.top/v2-a2c79e8d0246fff5ffab918aa211b81c_r.jpg",
         "version": "随时更新"
       },
