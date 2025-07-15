@@ -35,7 +35,7 @@
         "version": "07.12"
       }, {
         "name": "幸福年年本地包",
-        "url":"https://d.kstore.dev/download/4684/幸福年年0705本地包.zip",
+        "url":"https://d.kstore.dev/download/4684/幸福年年0715本地包.zip",
         "icon": "http://cvsfd.osfs.top/v2-a2c79e8d0246fff5ffab918aa211b81c_r.jpg",
         "version": "随时更新"
       },
