@@ -75,7 +75,7 @@
       },
       {
         "name": "无忧本地",
-        "url": "https://gitee.com/liu_wuyou/box/raw/master/Bdb/TVBox0716.zip",
+        "url": "https://gitee.com/liu_wuyou/box/raw/master/Bdb/TVBox0805.zip",
         "icon": "https://gitee.com/liu_wuyou/box/raw/master/Bz/%E6%97%A0%E5%BF%A7.jpg",
         "version": "随时更新"
       },
