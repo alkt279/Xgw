@@ -37,6 +37,7 @@
    {
                 "name": "柒豪",
                 "url": "https://gitee.com/qihaoyyds/qihao/raw/master/本地包.zip",
+"icon": "https://ghfast.top/https://raw.githubusercontent.com/alkt279/Xgw/master/女.jpg",
                 "version": "随时更新"},
 {
         "name": "PG本地包",
