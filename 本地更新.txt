@@ -91,7 +91,7 @@
      },{
       "name": "奇奇本地",
        "url": "http://bd.qiqiv.cn/测试包.zip",
-        "icon": "http://bd.qiqiv.cn/更新.jpg",      "version":"随时更新"   }    ]  },
+        "icon": "http://bd.qiqiv.cn/更新2.jpg",      "version":"随时更新"   }    ]  },
   {
     "name": "影视app",
     "list": [
