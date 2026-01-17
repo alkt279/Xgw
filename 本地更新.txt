@@ -24,7 +24,8 @@
       {
       "name": "欧歌本地包",
      "url": "",
-      "icon": "http://127.0.0.1:9978/file/tvbox/.版本号.png"
+      "icon": "https://gitee.com/liu_wuyou/box/raw/master/Bz/推荐.jpg",
+"version": "12.28"
       }
       
       
@@ -51,7 +52,12 @@
         "version": "07.30"
       }, 
 
-
+{
+         "name": "vox本地",
+         "url": "http://xw.123234567.xyz:60255/jiduo/vox本地包.zip",
+         "icon": "http://xw.123234567.xyz:60255/jiduo/1.jpg",
+         "version": "."
+      },
 {
         "name": "神州本地包",
         "url": "https://gitee.com/yiwu369/6758/raw/master/神州.zip",
